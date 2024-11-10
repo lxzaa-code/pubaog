@@ -14,7 +14,7 @@ export default defineConfig({
     }
   },
   server: {
-    host: '127.0.0.1',
+    host: 'https://acserver.zhou.lk/',
     https: false,
     open: true,
     port: 5173, // 端口号默认值5173
