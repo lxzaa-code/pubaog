@@ -13,7 +13,7 @@ import naive from 'naive-ui'
 // axios
 import axios from 'axios'
 
-axios.defaults.baseURL = '/api';
+axios.defaults.baseURL = 'https://acserver.zhou.lk';
 
 
 const app = createApp(App)
